@@ -1,0 +1,5 @@
+{
+	"controlurl" : "http://192.168.137.1/iot/controlapi.php",
+	"configurl" : "http://192.168.137.1/iot/configapi.php",
+	"dataurl" : "http://192.168.137.1/iot/dataapi.php"
+}
